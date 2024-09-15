@@ -23,6 +23,7 @@ I'm excited to continue learning, growing, and contributing my skills to the fie
 ## **Python Projects**
 
 ### **1. Multi-National Bank Customer Churn Analysis**
+- **Code**: [Python- Bank Customer Churn Analysis & Prediction.ipynb](https://github.com/vindeep500/Vindeep-s_Portfolio/blob/main/Python-%20Bank%20Customer%20Churn%20Analysis%20%26%20Prediction.ipynb)
 - **Description**: Used data from Kaggle to perform comprehensive churn analysis for a multinational bank. Applied exploratory data analysis (EDA), feature engineering, encoding, scaling, and transformation techniques. Trained and optimized machine learning models, including hyperparameter tuning of the top performers.
 - **Skills**: Machine learning, feature engineering, model tuning, EDA.
 - **Technology**: Python, Pandas, Scikit-learn, Seaborn, Matplotlib.
