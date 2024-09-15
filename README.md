@@ -5,6 +5,8 @@ Hi, I'm Vindeep Singh! I hold a master's degree in Economics with a solid analyt
 I enjoy working with complex datasets, deriving meaningful insights through analysis, and building solutions that solve real-world problems. Whether it's developing machine learning models to predict customer churn, optimizing e-commerce sales data, or creating interactive dashboards to track key business metrics, I thrive in using data-driven strategies to create impact.
 
 My CV in [pdf](https://github.com/vindeep500/Vindeep-s_Portfolio/blob/main/Vindeep%20Resume.pdf)
+
+
 I'm excited to continue learning, growing, and contributing my skills to the field of data science.
 
 ---
